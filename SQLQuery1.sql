@@ -1,0 +1,1 @@
+SELECT TOP 10 * FROM [olist_customers_dataset];
